@@ -1,0 +1,40 @@
+iconst 1
+iconst 2
+iconst 3
+iconst 4
+iconst 5
+iconst 6
+iconst 7
+iconst 8
+fconst 9.8
+fconst 10.34
+fconst 11.5
+fconst 12.5
+fconst 13.87
+fconst 14.19
+iconst 15
+iconst 16
+istore kk
+iload kk
+istore b
+fadd
+fconst 0.0
+fstore haha
+fstore vinh
+fstore bk
+fstore ce
+fstore ryuki
+fstore decade
+fstore makaiNoHana
+iconst 0
+istore faiz
+irem
+fneg
+par makaiNoHana
+par haha
+f2i
+i2f
+top
+val makaiNoHana
+printAVL
+displayAllStack
